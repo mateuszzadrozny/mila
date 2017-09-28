@@ -1,0 +1,45 @@
+html, body{
+
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+header{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: yellow;
+}
+
+h1{
+    font-size: 48px;
+    text-decoration: underline
+    
+}
+
+
+.nav{
+list-style: none;
+
+}
+.nav li{
+display: inline;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+section{
+
+   
+    border: 1px solid red;
+    margin: 20px;
+}
+section h2{
+
+    text-align: center;
+}
